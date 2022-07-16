@@ -5,4 +5,4 @@ Recriando a tela de login do instagram, em react native utilizando expo.
 
 # Imagens do projeto
 
-![ImageMetrics] https://raw.githubusercontent.com/bruno-npc/telaDeLogin-Intagram/main/src/Img/Instagram-expo.png
+![ImageMetrics](https://raw.githubusercontent.com/bruno-npc/telaDeLogin-Intagram/main/src/Img/Instagram-expo.png)
